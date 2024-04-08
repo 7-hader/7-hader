@@ -35,10 +35,10 @@
 - I am passionate about learning new things and sharing knowledge.
 
 
-### 🤝🏻 &nbsp;Contact Me
+### 👉 &nbsp;Contact Me
 
 <p>
-	<a href="mailto:hader.seven@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/HaderxDev"><img src="https://img.shields.io/badge/telegram-%230A66C2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-	<a href="https://github.com/7-hader"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:hader.seven@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  	<a href="https://t.me/HaderxDev"><img src="https://img.shields.io/badge/Telegram-%230A66C2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+	<a href="https://www.linkedin.com/in/7-hader"><img src="https://img.shields.io/badge/LinkedIn-%2300ACEE.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
